@@ -1,0 +1,5 @@
+C:\Users\rafae\Desktop\Powershell_Screen_Converter.exe
+C:\Users\rafae\Desktop\Powershell_Screen_Converter.dll
+C:\Users\rafae\Desktop\Powershell_Screen_Converter.deps.json
+C:\Users\rafae\Desktop\Powershell_Screen_Converter.runtimeconfig.json
+C:\Users\rafae\Desktop\Powershell_Screen_Converter.pdb
