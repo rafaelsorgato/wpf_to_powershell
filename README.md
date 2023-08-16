@@ -1,5 +1,5 @@
 # wpf_to_powershell
-Convert WPF to powershell gui
+Convert a wpf screen to a powershell screen. An easy and free way to create screens in powershell<img src="https://i.gifer.com/origin/dc/dc9122a4c67ff1272971880b17b21ce3_w200.gif" width=45px>
 
 <a href="https://github.com/rafaelsorgato/wpf_to_powershell/tree/master/Powershell_Screen_Converter">Click here if you want the visual studio c# project<a/>
 <br><br>
