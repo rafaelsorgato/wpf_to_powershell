@@ -27,3 +27,5 @@ creating the function when you click the button<br>
 $button.Add_Click({
   do something
 })
+<br><br>
+Any error while using it? Let me know in "issues"
